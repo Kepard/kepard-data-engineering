@@ -2,7 +2,7 @@
 
 Ce projet présente un pipeline de données complet construit sur Microsoft Azure, traitant les données "AdventureWorks" depuis l'ingestion jusqu'à la visualisation. Il met en œuvre une architecture Medallion (Bronze, Silver, Gold) en utilisant les services Azure clés.
 
-**Documentation Complète (PDF) :** [docs/Documentation.pdf](Documentation.pdf) *(Fortement recommandé pour une compréhension détaillée)*
+**Documentation Complète (PDF) :** [Documentation.pdf](Documentation.pdf) *(Fortement recommandé pour une compréhension détaillée)*
 
 ## Objectif
 

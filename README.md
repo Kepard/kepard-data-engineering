@@ -2,8 +2,6 @@
 
 Ce projet présente un pipeline de données complet construit sur Microsoft Azure, traitant les données "AdventureWorks" depuis l'ingestion jusqu'à la visualisation. Il met en œuvre une architecture Medallion (Bronze, Silver, Gold) en utilisant les services Azure clés.
 
-**Auteur :** [Votre Nom]
-**Formation :** Master Informatique pour la Science des Données (ISD), Université Paris-Saclay
 **Documentation Complète (PDF) :** [docs/project_documentation.pdf](docs/project_documentation.pdf) *(Fortement recommandé pour une compréhension détaillée)*
 
 ## Objectif
@@ -28,7 +26,7 @@ Démontrer la conception et l'implémentation d'un pipeline de données E2E pour
 - `databricks/` : Notebook PySpark pour la transformation des données.
 - `synapse/` : Scripts SQL pour la configuration d'Azure Synapse Analytics.
 - `data_config/` : Fichier de configuration `git.json` pour l'ingestion dynamique.
-- `(Optionnel) powerbi/` : Fichier `.pbix` du tableau de bord.
+
 
 ## Pour Explorer
 
